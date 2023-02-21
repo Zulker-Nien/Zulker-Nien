@@ -15,8 +15,9 @@ I am currently working on a react web application<br>I am looking to collaborate
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Random Dev Joke
+Why do programmers prefer dark mode?
+Because light attracts bugs.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zulker-Nien&icon=0&color=6)](https://visitcount.itsvg.in)
