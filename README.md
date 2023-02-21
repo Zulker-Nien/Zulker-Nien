@@ -13,7 +13,7 @@ I am currently working on a react web application<br>I am looking to collaborate
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulker-Nien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+"First, solve the problem. Then, write the code." — John Johnson"
 
 ### 😂 Random Dev Joke
 Why do programmers prefer dark mode?
