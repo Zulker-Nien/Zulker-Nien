@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a react web application<br>I am looking to collaborate on web 3.0 services<br>I am looking for help with a job<br>I am currently learning glsl shading programming and blender<br>Ask me about anything<br>Fun fact: I am a curious mind
+I am currently working on a react web application<br>I am looking to collaborate on web 3.0 services<br>I am currently learning glsl shading programming and blender<br>Ask me about anything<br>Fun fact: I am a curious mind
 
 
 ## 🌐 Socials:
