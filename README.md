@@ -22,7 +22,7 @@
 
 Full-Stack & Creative Developer with 5+ years shipping web platforms across startups and freelance projects.
 
-- 🚀 Currently building **[The Deltagram](https://urkis.vercel.app)** — a full-stack digital news platform (NestJS, Next.js, PostgreSQL, Meilisearch)
+- 🚀 Currently building **[The Deltagram](https://thedeltagram.com)** — a full-stack digital news platform (NestJS, Next.js, PostgreSQL, Meilisearch)
 - 🛍️ Recently shipped **Celestial** — a 3D e-commerce platform with a scroll-driven Three.js experience and a product authenticity/barcode verification system
 - 🎨 Specializing in immersive 3D web (Three.js, WebGL, WebXR, AR) and AI-integrated content workflows
 - 🤝 Looking to collaborate on **web 3.0 services** and immersive web experiences
